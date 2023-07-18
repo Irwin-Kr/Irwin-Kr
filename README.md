@@ -3,9 +3,8 @@
 * 차량 비교 웹 페이지 : [CarCompareSite](https://github.com/Irwin-Kr/CarCompareSite)
   1. Use SDK :
         
-     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
+     <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>   
      <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
-         
   3.
 
 <!--
