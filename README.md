@@ -2,7 +2,9 @@
 
 * 차량 비교 웹 페이지 : [CarCompareSite](https://github.com/Irwin-Kr/CarCompareSite)
   1. 개발 환경<br><br>
-     <img src="https://img.shields.io/badge/MacOS-000000?style=plastic&logo=apple&logoColor=white" /><br><br>
+     <img src="https://img.shields.io/badge/MacOS-000000?style=plastic&logo=apple&logoColor=white" />
+     <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
+     <br><br>
   2. 사용한 SDK<br><br>
      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/>
      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=plastic&logo=eclipseide&logoColor=white"/><br><br>
