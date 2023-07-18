@@ -1,12 +1,12 @@
 ### Project
 
 * 차량 비교 웹 페이지 : [CarCompareSite](https://github.com/Irwin-Kr/CarCompareSite)
-  1. 사용한 SDK :      
+  1. 사용한 SDK :
      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
      <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
-     <br>
-  2.
+  2. 사용한 개발 언어 :
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 <!--
 **Irwin-Kr/Irwin-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
