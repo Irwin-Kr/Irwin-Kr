@@ -6,6 +6,7 @@
      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/><br><br>
      <!-- <img src="https://img.shields.io/badge/아이콘내용-바탕색?style=flat&logo=로고이름&logoColor=white"/> -->
   2. 사용한 개발 언어<br><br>
+     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
 
 <!--
