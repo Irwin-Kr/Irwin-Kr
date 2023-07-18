@@ -16,7 +16,9 @@
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white" />
      <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white" />
-     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" />
+     <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" /><br><br>
+  4. 사용한 라이브러리<br><br>
+     <img src="https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=hibernate&logoColor=white">
 <!--
 **Irwin-Kr/Irwin-Kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
