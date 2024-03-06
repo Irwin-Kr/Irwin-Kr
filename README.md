@@ -8,7 +8,9 @@
   - [Github 링크](https://github.com/okwow123/itca)
 
 ### * OAuth2를 이용한 블로그 : [OAuth2 - blog](https://github.com/Irwin-Kr/blog)
-### * 브랜드 별 커피 메뉴 : [Coffee](https://github.com/Irwin-Kr/coffee)
+### * 브랜드 별 커피 메뉴1 : [Coffee](https://github.com/Irwin-Kr/coffee)
+### * 브랜드 별 커피 메뉴2 : 작업 예정 중
+  - 컨셉 : 우유부단한 사람들을 위한 커피 브랜드 및 메뉴 결정을 도와주는 프로젝트
 ### * 차량 비교 웹 페이지 : [CarCompareSite](https://github.com/Irwin-Kr/CarCompareSite)
   
 <!--
